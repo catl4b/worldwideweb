@@ -1,5 +1,5 @@
 # worldwideweb
-Documentation for World Wide Web, the first certified open source hardware perfume <https://www.catlab.tech/open-source-perfume>
+Documentation for World Wide Web, the first certified open source hardware perfume, available at https://www.catlab.tech/open-source-perfume.
 
 Pitch
 
@@ -8,7 +8,7 @@ World Wide Web is the first certified open source hardware perfume <https://www.
 
 Preparation
 
-For safety and supplies, Art and Olfaction’s fantastic open source perfume primer <https://artandolfaction.com/wp-content/uploads/2020/12/IAO_1_PRIMER_V4.pdf> is an absolute must. 
+For safety and supplies, Art and Olfaction’s fantastic open source perfume primer, https://artandolfaction.com/wp-content/uploads/2020/12/IAO_1_PRIMER_V4.pdf, is an absolute must. 
 
 Pure materials, such as those that comprise World Wide Web, can be diluted in solvents for efficiency, economics, and ease: it’s cheap and simple to work with resulting dilutions. The CAT Lab’s preferred solvent is DPG, also known as perfumer’s alcohol. Purchase Art and Olfaction’s recommended supplies, along with DPG and the materials identified below, before getting started.
 
@@ -35,7 +35,7 @@ Recreate or remix World Wide Web to imagine the Internet as you’d like it to b
 
 Proportions
 
-DPG and materials are available from the Perfumer's Apprentice <https://shop.perfumersapprentice.com/>.
+DPG and materials are available from the Perfumer's Apprentice, https://shop.perfumersapprentice.com/.
 
 Top Note
 
