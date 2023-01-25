@@ -3,7 +3,7 @@ Documentation for World Wide Web, the first certified open source hardware perfu
 
 Pitch
 
-World Wide Web is the first certified open source hardware perfume <https://www.oshwa.org>. This genderless, wearable fragrance is a low-sillage scent, meaning that you can smell it on your skin without it overwhelming the space or people around you.
+World Wide Web is the first open source hardware perfume certified by the Open Source Hardware Association, https://www.oshwa.org. This genderless, wearable fragrance is a low-sillage scent, meaning that you can smell it on your skin without it overwhelming the space or people around you.
 
 
 Preparation
@@ -17,11 +17,11 @@ Process
 
 Reviewing Primer. Take another look at Art and Olfaction’s perfume primer, particularly the parts about safety.
 
-Diluting Materials.  Using clean pipettes, dilute each of your materials to a ratio of 10% material to 90% DPG. (Ten drops of material to ninety drops of DPG usually does the trick.) Confirm the composition of each material before diluting, as some are already diluted.
+Diluting Materials.  Using clean pipettes, dilute each of your materials to a ratio of 10% material to 90% DPG. (Ten drops of material to ninety drops of DPG does the trick.) Confirm the composition of each material before diluting, as some are already diluted.
 
 Combining Materials. Line up the 10% dilutions you need for World Wide Web. Using each vial’s dropper or a clean pipette,  combine the dilutions to create an accord. (The recipe can be scaled up to create bigger batches.) Play with the proportions of World Wide Web to discover what suits your preferences and body chemistry. 
 
-Learning More. If you’re even more curious about the perfumemaking process, consider taking an Atlas Obscura class with Saskia Wilson-Brown herself <https://www.atlasobscura.com/experiences/perfume-online-course>. (That’s how I got started!)
+Learning More. If you’re even more curious about the perfumemaking process, consider taking an Atlas Obscura class with Saskia Wilson-Brown herself, https://www.atlasobscura.com/experiences/perfume-online-course. (That’s how I got started!)
 
 
 Perfume
