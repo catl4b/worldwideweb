@@ -26,9 +26,7 @@ Learning More. If you’re even more curious about the perfumemaking process, co
 
 Perfume
 
-There are two formulations of World Wide Web: funky and floral
-
-Funky World Wide Web smells like walking through a carpeted data center in the 1990s with open windows overlooking the Pacific Ocean—in a good way. The initial hit of gasoline from hexanol-3-cis is a reminder that fossil fuels power data centers that support the web. The mysterious carpet comes from Norlimbanol. (Floral World Wide Web swaps Norlimbanol for neroli and orange blossom, symbolic of the disappearing orange groves that used to pepper Silicon Valley.) The faint scent of wood paneling comes from cedar, also inspired by the wood used to make telephone poles. The lingering Pacific comes from marine and ozone, evocative of the thousands of miles of destructive submarine cables that carry communications globally. 
+World Wide Web is inspired by Internet infrastructure. It smells like walking through a carpeted data center in the 1990s with open windows overlooking the Pacific Ocean—in a good way. The initial hit of gasoline from hexanol-3-cis is a reminder that fossil fuels power data centers that support the web. Bright bergamot reflects the disappearing citrus groves that used to pepper Silicon Valley. The faint scent of wood paneling comes from cedar, also inspired by the wood used to make telephone poles. The lingering musk of the trademark-protected iso e super captures the carpeted floors of a retro data center.
 
 Recreate or remix World Wide Web to imagine the Internet as you’d like it to be.
 
