@@ -37,20 +37,16 @@ Proportions
 
 DPG and materials are available from the Perfumer's Apprentice, https://shop.perfumersapprentice.com/.
 
-Top Note
-
-Marine + Ozone Accord x 2 drops of 10% dilution - $3/4ml
-
 Middle Notes
 
 Hexenol-3-cis x 2 drops of 10% dilution - $6.75/4 ml
 
-Neroli + Orange Blossom x 3 drops of 10% dilution - $6.00/4ml (alternative to Norlimbanol, choose only one)
+Bergamot (Givco) x 3 drops of 10% dilution - $3.00/4 ml
 
 Base Notes
 
 Cedarwood, Texas x 3 drops of 10% dilution - $2.50/4 ml 
 
-Norlimbanol (Firmenich) x 3 drops of 10% dilution - $5.25/4ml (alternative to Neroli, choose only one)
+Iso E Super (IFF) x 2 drops of 10% dilution - $3.00/4 ml
 
-Total Cost: $23.50 for multiple batches
+Total Cost: $15.25 for multiple batches
